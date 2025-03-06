@@ -1,4 +1,5 @@
-<img src="upper.svg" alt="GitHub Banner" style="position: absolute; top: 0; left: 0; width: 100%; z-index: -1;">
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background-image: url('upper.svg'); background-size: cover; background-repeat: no-repeat; opacity: 0.2;">
+</div>
 
 # Manish, Software Engineering student.
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg)
