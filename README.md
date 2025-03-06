@@ -15,6 +15,7 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg)
