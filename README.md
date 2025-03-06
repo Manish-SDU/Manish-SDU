@@ -2,7 +2,8 @@
 
 # Manish, Software Engineering student.
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg)
-  ⭐ Explore my personal projects in my [portfolio](https://mbmanish.com/)
+
+⭐ Explore my personal projects in my [portfolio](https://mbmanish.com/)
 
 📂 Check out my public [repositories](https://github.com/MRM-MB)
 
