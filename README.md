@@ -15,15 +15,14 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
-
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
