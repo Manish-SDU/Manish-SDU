@@ -1,8 +1,8 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Manish, Software Engineering student.
-
-⭐ Explore my personal projects in my [portfolio](https://mbmanish.com/)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg)
+  ⭐ Explore my personal projects in my [portfolio](https://mbmanish.com/)
 
 📂 Check out my public [repositories](https://github.com/MRM-MB)
 
