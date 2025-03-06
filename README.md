@@ -19,8 +19,7 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg)
 
