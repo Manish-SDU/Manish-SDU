@@ -1,4 +1,4 @@
-<img src="upper.svg" alt="GitHub Banner" width="50%" />
+<img src="upper.svg" alt="GitHub Banner" width="5%" />
 
 # Manish, Software Engineering student.
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg)
