@@ -2,7 +2,7 @@
 
 # Manish, Software Engineering student.
 
-⭐ Explore my personal projects in my [portfolio](mbmanish.com)
+⭐ Explore my personal projects in my [portfolio](https://mbmanish.com/)
 
 📂 Check out my public [repositories](https://github.com/MRM-MB)  
 
