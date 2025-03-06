@@ -1,8 +1,9 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Manish, currently pursuing a degree in Software Engineering.
+# Manish, Software Engineering student.
 
-⭐ Explore my personal projects in my [portfolio](mbmanish.com)  
+⭐ Explore my personal projects in my [portfolio](mbmanish.com)
+
 📂 Check out my public [repositories](https://github.com/MRM-MB)  
 
 
