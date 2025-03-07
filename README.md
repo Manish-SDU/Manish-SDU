@@ -1,6 +1,6 @@
 <img src="banner.svg" alt="GitHub Banner" width="100%" />
 
-# Hello 
+# Hello <h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg)
 
 ⭐ Explore my personal projects in my [portfolio](https://mbmanish.com/)
