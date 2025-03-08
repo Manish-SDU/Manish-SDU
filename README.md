@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="GitHub Banner" width="100%" />
+<img src="head.svg" alt="GitHub Banner" width="100%" />
 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg)
 
