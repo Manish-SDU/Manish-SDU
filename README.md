@@ -21,5 +21,3 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg)
-
-![snake gif](https://github.com/Manish-SDU/Manish-SDU/blob/output/github-snake-dark.svg)
