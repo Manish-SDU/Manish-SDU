@@ -22,8 +22,4 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+![snake gif](https://github.com/MANISH-SDU/MANISH-SDU/blob/output/github-snake-dark.svg)
