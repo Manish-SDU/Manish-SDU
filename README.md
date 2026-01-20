@@ -4,7 +4,7 @@
 
 ⭐ Explore my personal projects in my [portfolio](https://mbmanish.com/)
 
-❗ Check out my public [repositories](https://github.com/MRM-MB)
+❗ Check out all my public [repositories](https://github.com/MRM-MB)
 
 
 # 💻 Technologies:
